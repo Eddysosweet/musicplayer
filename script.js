@@ -25,7 +25,56 @@ $(function()
 		name: "Album-3107- Nâu , Đen , Dương",
 		url: "Musics/3107.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	}];
+	},
+    {
+		artist: "Hùng",
+		name: "3107 4 Nâu Đen Erik",
+		url: "Musics/3107_4.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "Cash Cash - Hero",
+		url: "Musics/CashCashHero.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Long Phạm",
+		name: "Gió Vẫn Hát",
+		url: "Musics/GioVanHat.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "Nếu Anh ĐI",
+		url: "Musics/NeuAnhDi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "Nợ Ai Đó Lời Xin Lỗi",
+		url: "Musics/NoAiDoLoiXinLoi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "Suýt Nữa Thì",
+		url: "Musics/SuytNuaThi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "Thì Thôi",
+		url: "Musics/ThiThoi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+    {
+		artist: "Hùng",
+		name: "What makes you beautiful",
+		url: "Musics/Whatmakeyoubeautiful.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+];
 	
 	function shuffle(a) {
 		var j, x, i;
