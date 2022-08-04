@@ -9,7 +9,7 @@ body {
 }
 #list-album {
   position: absolute;
-  bottom: 20px;
+  bottom: 15%;
   left: 0;
   right: 0;
   width: 430px;
